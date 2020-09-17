@@ -15,3 +15,17 @@
 >customer service and support abilities and critical thinking 
 >to produce software that meets all goals and objectives 
 >outlined by the customer.
+
+## SKILLS  
+* HTML Basics
+* CSS Basics
+* JS Basics
+
+## EXPERIENCE
+**Math Teacher** *1989-2001*
+
+Ural State Pedagogical University 
+
+**Center Director** *2002-2018*
+
+Ural State Pedagogical University
