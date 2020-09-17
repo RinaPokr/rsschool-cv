@@ -29,3 +29,16 @@ Ural State Pedagogical University
 **Center Director** *2002-2018*
 
 Ural State Pedagogical University
+
+## EDUCATION  
+**Math Teacher** *1984-1989*
+
+Ural State Pedagogical University  
+
+**Master in Special Education** *2013-2015* 
+   
+Ural State Pedagogical University 
+
+## LANGUAGE
+- **Russian** Native
+- **English** A1 Beginner     
