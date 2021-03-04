@@ -30,13 +30,23 @@ Ural State Pedagogical University
 
 Ural State Pedagogical University
 
+## CODE EXAMPLES
+
+```sh
+function getImage() {
+  i = (i === 23) ? 0 : i + 1;
+  cont.style.background = "url(" + arrToday[i].image + ") center  no-repeat, linear-gradient(" + arrToday[i].color + "," + arrToday[i].color + ")";
+  document.body.style.color = arrToday[i].color;
+} 
+```
+
 ## EDUCATION  
 **Math Teacher** *1984-1989*
 
 Ural State Pedagogical University  
 
-**Master in Special Education** *2013-2015* 
-   
+**Master in Special Education** *2013-2015*   
+ 
 Ural State Pedagogical University 
 
 ## LANGUAGE
