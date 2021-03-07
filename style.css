@@ -1,7 +1,7 @@
 body {
     position: relative;
     width: 1200px;
-    min-height: 100%;
+    
     margin: 0 auto;
     font-family: 'Quicksand', sans-serif;
     box-sizing: border-box;
@@ -15,10 +15,7 @@ body {
   }
 
 
-   main {
-    margin: 10px;
-   }
-
+   
    a { 
     text-decoration : none; 
     color: #3bacc9; 
@@ -66,8 +63,20 @@ body {
 .contact {
   padding-left: 10px;
     width: 35%;
-    height: 90vw;
+    height: 100vw;
   float: left;
+}
+
+.experience {
+  padding-left: 10px;
+    width: 30%;
+    
+  float: left;
+}
+
+.examples {
+  padding-left: 20px;
+    width: 100vw; 
 }
 
 #about-me {
